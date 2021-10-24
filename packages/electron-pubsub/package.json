@@ -1,0 +1,19 @@
+{
+  "name": "@playground/electron-pubsub",
+  "version": "1.0.0",
+  "description": "Electron IPC wrapper that allows main and renderer/s process to communicate",
+  "main": "index.js",
+  "repository": "https://github.com/pownthep/playground",
+  "publishConfig": {
+    "@pownthep:registry": "https://npm.pkg.github.com/pownthep"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pownthep Laokhunthot",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}
